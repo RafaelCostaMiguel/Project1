@@ -1,6 +1,6 @@
 # Project1
 
-#estruta MySQL
+#ESTRUTURA MySQL
 
 CREATE DATABASE Hosp;
 USE Hosp;
